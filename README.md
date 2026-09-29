@@ -9,21 +9,20 @@
 </p>
 
 - 🎓 Pre-final-year B.Tech CSE student at **Punjabi University, Patiala** (Batch of 2027)
-- 🔭 Currently building: **[your current project]**
-- 🌱 Currently learning: **[e.g., advanced DSA, Machine Learning, React]**
+- 🌱 Currently learning: **[ DSA, Machine Learning, ]**
 - 💡 Comfortable with: **DSA, OOP, OS, DBMS, SQL, HTML, CSS, JavaScript**
 - 🤝 Looking for: **internship opportunities in software development / AI-ML**
-- 📫 Reach me at: **[your email]**
+- 📫 Reach me at: **[pup9765@gmail.com]**
 
 ---
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[your-linkedin-url]">
+  <a href="https://www.linkedin.com/in/[linkedin.com/in/aakash-kumar-singh-b58488347]">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:[your email]">
+  <a href="mailto:[pup9765@gmail.com]">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -33,7 +32,7 @@
 <h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,mysql,git,github,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,git,github,vscode,jupyter,pytorch,streamlit&perline=8" />
 </p>
 
 ---
