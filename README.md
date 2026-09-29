@@ -12,14 +12,14 @@
 - 🌱 Currently learning: **[ DSA, Machine Learning, ]**
 - 💡 Comfortable with: **DSA, OOP, OS, DBMS, SQL, HTML, CSS, JavaScript**
 - 🤝 Looking for: **internship opportunities in software development / AI-ML**
-- 📫 Reach me at: **[pup9765@gmail.com]**
+- 📫 Reach me at: **pup9765@gmail.com**
 
 ---
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[linkedin.com/in/aakash-kumar-singh-b58488347]">
+  <a href="https://www.linkedin.com/in/aakash-kumar-singh-b58488347">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:[pup9765@gmail.com]">
@@ -32,7 +32,7 @@
 <h2 align="center">Tech Stack & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,git,github,vscode,jupyter,pytorch,streamlit&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,git,github,vscode,jupyter,streamlit&perline=8" />
 </p>
 
 ---
