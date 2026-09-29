@@ -5,14 +5,15 @@
 <h3 align="center">B.Tech CSE Student | Python · DSA · SQL | AI/ML & Frontend Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=aakashcse&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🎓 Pre-final-year B.Tech CSE student at **Punjabi University, Patiala** (Batch of 2027)
-- 🌱 Currently learning: **[ DSA, Machine Learning, ]**
-- 💡 Comfortable with: **DSA, OOP, OS, DBMS, SQL, HTML, CSS, JavaScript**
-- 🤝 Looking for: **internship opportunities in software development / AI-ML**
-- 📫 Reach me at: **pup9765@gmail.com**
+- 🎓 Final-year B.Tech CSE student at Punjabi University, Patiala (Batch of 2027)
+- 🌱 Currently learning: DSA and Machine Learning
+- 💡 Comfortable with: DSA, OOP, OS, DBMS, SQL, HTML, CSS, JavaScript
+- 🤖 Interested in: AI/ML and Software Development
+- 🚀 Building projects and improving my problem-solving skills
+- 🤝 Open to internship opportunities in Software Development and AI/ML
 
 ---
 
