@@ -32,8 +32,10 @@
 
 <h2 align="center">Tech Stack & Tools</h2>
 
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,git,github,vscode,jupyter,streamlit&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,mysql,numpy,pandas,sklearn,fastapi,streamlit,git,github,vscode,jupyter,postman&perline=8" />
 </p>
 
 ---
