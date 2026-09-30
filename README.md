@@ -46,9 +46,10 @@
 Recommends similar movies based on content features such as [genres, cast, keywords, overview].
 **Tech:** Python, [pandas, scikit-learn, Streamlit/Flask] | **Live demo:** [link]
 
-### 🌦️ [Weather App](https://github.com/YOUR_USERNAME/[repo-name])
-Shows current weather and forecast for any city using [API name].
-**Tech:** [HTML, CSS, JavaScript ] | **Live demo:https://aakashcse.github.io/weather-app/
+### 🌦️ [Weather App](https://github.com/aakashcse/weather-app)
+A responsive weather app that detects your location or lets you search any city to show real-time temperature, humidity, wind speed and cloud cover, using the OpenWeatherMap API.
+
+**Tech:** HTML · CSS · JavaScript (ES6, Fetch API, Geolocation API) | **Live demo:** [aakashcse.github.io/weather-app](https://aakashcse.github.io/weather-app/)
 
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/YOUR_USERNAME/[repo-name])
 [Two-player / vs computer] game with [features, e.g., win detection, restart].
