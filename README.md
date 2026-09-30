@@ -42,9 +42,10 @@
 
 <h2 align="center">Featured Projects</h2>
 
-### 🎬 [Content-Based Movie Recommender System](https://github.com/YOUR_USERNAME/[repo-name])
-Recommends similar movies based on content features such as [genres, cast, keywords, overview].
-**Tech:** Python, [pandas, scikit-learn, Streamlit/Flask] | **Live demo:** [link]
+### 🎬 [CineMatch – Content-Based Movie Recommender](https://github.com/aakashcse/content-based-movie-recommender)
+Recommends 5 similar movies from a catalogue of 4,800+ films using cosine similarity on genres, cast, crew, keywords and plot overview. Includes live posters and ratings from the TMDB API, trending movies and a Watchlist.
+
+**Tech:** Python · Pandas · Scikit-learn · Streamlit · TMDB API | **Live demo:** [content-based-movie-recommender-abrk.onrender.com](https://content-based-movie-recommender-abrk.onrender.com)
 
 ### 🌦️ [Weather App](https://github.com/aakashcse/weather-app)
 A responsive weather app that detects your location or lets you search any city to show real-time temperature, humidity, wind speed and cloud cover, using the OpenWeatherMap API.
