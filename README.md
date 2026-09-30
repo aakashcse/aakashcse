@@ -48,7 +48,7 @@ Recommends similar movies based on content features such as [genres, cast, keywo
 
 ### 🌦️ [Weather App](https://github.com/YOUR_USERNAME/[repo-name])
 Shows current weather and forecast for any city using [API name].
-**Tech:** [HTML, CSS, JavaScript / Python] | **Live demo:** [link]
+**Tech:** [HTML, CSS, JavaScript ] | **Live demo:https://aakashcse.github.io/weather-app/
 
 ### ❌⭕ [Tic-Tac-Toe Game](https://github.com/YOUR_USERNAME/[repo-name])
 [Two-player / vs computer] game with [features, e.g., win detection, restart].
