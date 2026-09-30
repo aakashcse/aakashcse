@@ -51,9 +51,10 @@ A responsive weather app that detects your location or lets you search any city 
 
 **Tech:** HTML · CSS · JavaScript (ES6, Fetch API, Geolocation API) | **Live demo:** [aakashcse.github.io/weather-app](https://aakashcse.github.io/weather-app/)
 
-### ❌⭕ [Tic-Tac-Toe Game](https://github.com/YOUR_USERNAME/[repo-name])
-[Two-player / vs computer] game with [features, e.g., win detection, restart].
-**Tech:** [language] | **Live demo:** [link]
+### ❌⭕ [Tic-Tac-Toe Game](https://github.com/aakashcse/tic-tac-toe-game)
+A two-player browser game with win detection across all 8 lines, a green highlight on the winning line, tie detection and a one-click New Game reset. It has a glass-style board on a gradient background and works on mobile.
+
+**Tech:** HTML5 · CSS3 (Grid, Flexbox) · JavaScript (ES6) | **Live demo:** [Play it here](https://aakashcse.github.io/tic-tac-toe-game/)
 
 ---
 
